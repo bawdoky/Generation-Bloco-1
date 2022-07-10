@@ -16,7 +16,7 @@
   </a> - Repositório Java (<a href="https://github.com/LucasOii/Generation-Bloco-1/tree/main/java">Click aqui!</a>);
 
   <h2 id="pcp">Projeto DoeBahia</h2>
-  1) Com o ** Projeto DoeBahia ** Desenvolvimento em equipe do projeto DoeBahia como conclusão do Bloco 1, colocando todos os conceitos em prática:
+  1) Com o ** Projeto DoeBahia ** Foi desenvolvilvido em equipe do projeto DoeBahia como conclusão do Bloco 1, colocando todos os conceitos em prática:
   </a> - Repositório Projeto (<a href="https://github.com/LucasOii/Generation-ProjetoDoeBahia">Click aqui!</a>);
   
   
