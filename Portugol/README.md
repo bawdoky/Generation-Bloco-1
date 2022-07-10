@@ -8,13 +8,13 @@
 
 ## 📁 Listas dos exercícios
 * <a href="https://docs.google.com/document/d/1rHoBCCALDLxhfJ4mG2orHkBONqtOLzzP/edit?usp=sharing&ouid=118109715652382704410&rtpof=true&sd=true"><b>Lista 01</b>
-</a> - Programação sequencial (<a href=" ">Resoluções</a>);
+</a> - Programação sequencial (<a href="https://github.com/LucasOii/Generation-Bloco-1/tree/main/Portugol/Lista1_Sequenciais">Resoluções</a>);
 
 * <a href="https://docs.google.com/document/d/1SVkTVQjlbPEvclyy1y_pxU5hKJOn32cS/edit?usp=sharing&ouid=118109715652382704410&rtpof=true&sd=true"><b>Lista 02</b>
-</a> - Laços condicionais (<a href=" ">Resoluções</a>);
+</a> - Laços condicionais (<a href="https://github.com/LucasOii/Generation-Bloco-1/tree/main/Portugol/Lista2_Condicionais">Resoluções</a>);
 
 * <a href="https://docs.google.com/document/d/1mJSBUk3v_m6tnbl9bQFvrNKpD2pwidUm/edit?usp=sharing&ouid=118109715652382704410&rtpof=true&sd=true"><b>Lista 03</b>
-</a> - Laços de repetição (<a href=" ">Resoluções</a>);
+</a> - Laços de repetição (<a href="https://github.com/LucasOii/Generation-Bloco-1/tree/main/Portugol/Lista3_LacosDeRepeticao">Resoluções</a>);
 
 * <a href="https://docs.google.com/document/d/1dm4ygXgejajPV9sxyWweLYlEvMxRBPnT/edit?usp=sharing&ouid=118109715652382704410&rtpof=true&sd=true"><b>Lista 04</b>
-</a> - Vetores e matrizes (<a href=" ">Resoluções</a>).
+</a> - Vetores e matrizes (<a href="https://github.com/LucasOii/Generation-Bloco-1/tree/main/Portugol/Lista4_Vetores%26Matrizes">Resoluções</a>).
