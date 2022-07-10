@@ -1,4 +1,4 @@
-# projetos de estudos realizados no Bootcamp da GENERATION BRASIL
+# Projetos de estudos realizados durante o Bootcamp da GENERATION BRASIL
  Meus repositorios do Bloco 01
 
 ## Desenvolvimento Bloco 1
