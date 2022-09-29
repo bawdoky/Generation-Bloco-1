@@ -5,7 +5,7 @@
 
 1. <a href="#pcp">Pseudocódigo com Portugol.
 2. <a href="#lcj">Lógica de programação com JAVA.
-3. <a href="#dtb">Projeto de conclusão bloco 1 com JAVA.
+3. <a href="#dtb">Projeto DoeBahia de conclusão bloco 1 com JAVA.
   
   <h2 id="pcp">Portugol</h2>
   1) Com o ** Portugol ** Desenvolvi as logicas de programação em pseudocódigo:
